@@ -1,16 +1,25 @@
-## Hi there 👋
+# Steve Girard
 
-<!--
-**Steve-Girard/Steve-Girard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher based in Québec, Canada.  
+Working across three main areas:
 
-Here are some ideas to get you started:
+- **Historical linguistics** — Pre‑Basque, deep etymology, reconstruction.  
+- **Greek philology** — Hesiod, archaic structures, textual transmission.  
+- **Astrophysics** — Gamma‑ray bursts (GRBs), models, comparative analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic links
+- ORCID: https://orcid.org/0009-0009-8210-0700  
+- Google Scholar  
+- Academia  
+- OSF  
+- Zenodo  
+
+## Research interests
+- Ancient structures  
+- Internal system coherence  
+- Transmission, memory, reconstruction  
+- Cross‑disciplinary comparative analysis  
+
+---
+
+This GitHub profile serves as an entry point to my work, notes, repositories, and ongoing projects.

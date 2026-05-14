@@ -28,4 +28,23 @@ Working across three main areas:
 - **Pre‑Basque Research Corpus (PBRC)** — ongoing organization and publication of datasets, notes, and working papers.
 - **FLH Project** — structural mapping of linguistic hypotheses and historical layers.
 
+## Publications
+
+A selection of my publications and research outputs is available through the following platforms:
+
+- **ORCID** — consolidated list of works and identifiers  
+  https://orcid.org/0009-0000-7013-8230
+
+- **Google Scholar** — citations, metrics, and publication list  
+  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
+
+- **Academia.edu** — working papers, philological notes, and linguistic drafts  
+  https://ulaval.academia.edu/SteveGirard
+
+- **OSF** — research materials, datasets, and project components  
+  https://osf.io/aqfw4
+
+- **Zenodo** — archived versions, datasets, and deposited papers  
+  https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
+
 This GitHub profile serves as an entry point to my work, notes, repositories, and ongoing projects.

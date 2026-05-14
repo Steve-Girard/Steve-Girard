@@ -20,6 +20,12 @@ Working across three main areas:
 - Transmission, memory, reconstruction  
 - Cross‑disciplinary comparative analysis  
 
----
+## Current projects
+
+- **Pre‑Basque Research Program** — consolidation of lexical roots, structural reconstruction, and comparative analysis across ancient strata.
+- **Greek Philology (Hesiod)** — examination of archaic narrative structures, formulaic patterns, and textual transmission.
+- **Gamma‑Ray Burst Studies** — comparative modeling of GRB classes, spectral analysis, and cross‑dataset validation.
+- **Pre‑Basque Research Corpus (PBRC)** — ongoing organization and publication of datasets, notes, and working papers.
+- **FLH Project** — structural mapping of linguistic hypotheses and historical layers.
 
 This GitHub profile serves as an entry point to my work, notes, repositories, and ongoing projects.

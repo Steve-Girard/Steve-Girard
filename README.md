@@ -47,4 +47,17 @@ A selection of my publications and research outputs is available through the fol
 - **Zenodo** — archived versions, datasets, and deposited papers  
   https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
 
+  ## Datasets
+
+Selected datasets and research materials are available through the following platforms:
+
+- **Zenodo** — archived datasets, corpus components, and deposited research materials  
+  https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
+
+- **OSF** — structured project components, working datasets, and supplementary materials  
+  https://osf.io/aqfw4
+
+- **GitHub repositories** — code, corpus preparation scripts, and dataset organization tools  
+  (see individual repositories below)
+
 This GitHub profile serves as an entry point to my work, notes, repositories, and ongoing projects.

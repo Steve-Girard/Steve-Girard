@@ -8,7 +8,7 @@ Working across three main areas:
 - **Astrophysics** — Gamma‑ray bursts (GRBs), models, comparative analysis.
 
 ## Academic links
-- ORCID: https://orcid.org/0009-0009-8210-0700  
+- ORCID: https://orcid.org/0009-0000-7013-8230
 - Google Scholar  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
 - Academia  https://ulaval.academia.edu/SteveGirard
 - OSF  https://osf.io/aqfw4

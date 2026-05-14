@@ -60,4 +60,13 @@ Selected datasets and research materials are available through the following pla
 - **GitHub repositories** — code, corpus preparation scripts, and dataset organization tools  
   (see individual repositories below)
 
+  ## Contact
+
+For academic correspondence or research-related inquiries:
+
+- **Email** — steve_girard.chercheur@hotmail.com  
+- **GitHub** — via Issues or repository discussions  
+- **ORCID** — https://orcid.org/0009-0000-7013-8230
+
+
 This GitHub profile serves as an entry point to my work, notes, repositories, and ongoing projects.

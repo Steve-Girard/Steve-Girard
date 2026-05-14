@@ -9,9 +9,9 @@ Working across three main areas:
 
 ## Academic links
 - ORCID: https://orcid.org/0009-0009-8210-0700  
-- Google Scholar  
-- Academia  
-- OSF  
+- Google Scholar  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
+- Academia  https://ulaval.academia.edu/SteveGirard
+- OSF  https://osf.io/aqfw4
 - Zenodo  
 
 ## Research interests

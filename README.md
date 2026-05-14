@@ -12,7 +12,7 @@ Working across three main areas:
 - Google Scholar  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
 - Academia  https://ulaval.academia.edu/SteveGirard
 - OSF  https://osf.io/aqfw4
-- Zenodo  https://zenodo.org/search?page=1&size=20&all_versions=true&creator=Girard%2C%20Steve
+- Zenodo  https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
 
 ## Research interests
 - Ancient structures  

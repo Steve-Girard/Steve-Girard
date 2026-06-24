@@ -7,6 +7,8 @@ Working across three main areas:
 - **Greek philology** — Hesiod, archaic structures, textual transmission.  
 - **Astrophysics** — Gamma‑ray bursts (GRBs), models, comparative analysis.
 
+  Member of the Linguistic Society of America (LSA), and the Royal Astronomical Society of Canada (RASC).
+
 ## Academic links
 - ORCID: https://orcid.org/0009-0000-7013-8230
 - Google Scholar  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ

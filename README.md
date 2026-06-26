@@ -28,7 +28,7 @@ Member of the Linguistic Society of America (LSA), and the Royal Astronomical So
 - **Greek Philology (Hesiod)** — examination of archaic narrative structures, formulaic patterns, and textual transmission.
 - **Gamma‑Ray Burst Studies** — comparative modeling of GRB classes, spectral analysis, and cross‑dataset validation.
 - **Pre‑Basque Research Corpus (PBRC)** — ongoing organization and publication of datasets, notes, and working papers.
-- **Epistemic Research Frameworks** — erf-research.org.
+- **Epistemic Research Frameworks** : erf-research.org.
 - **FLH Project** — structural mapping of linguistic hypotheses and historical layers.
 
 ## Publications

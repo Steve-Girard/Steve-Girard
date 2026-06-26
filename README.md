@@ -66,7 +66,7 @@ Selected datasets and research materials are available through the following pla
 
 For academic correspondence or research-related inquiries:
 
-- **Email** — steve_girard.chercheur@hotmail.com  
+- **Email** —  stevegirard@erf-research.org  
 - **GitHub** — via Issues or repository discussions  
 - **ORCID** — https://orcid.org/0009-0000-7013-8230
 

@@ -1,6 +1,6 @@
 # Steve Girard
 
-Independent researcher based in Québec, Canada.  
+Researcher based in Québec, Canada. Epistemic Research Frameworks.org.  
 Working across three main areas:
 
 - **Historical linguistics** — Pre‑Basque, deep etymology, morphology.  

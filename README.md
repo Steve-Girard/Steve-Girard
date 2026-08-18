@@ -12,6 +12,7 @@ Member of the Linguistic Society of America (LSA) and the American Astronomical 
 ## Academic links
 - ORCID: https://orcid.org/0009-0000-7013-8230
 - Google Scholar  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
+- ResearchGate  https://www.researchgate.net/profile/Steve-Girard-2
 - Academia  https://ulaval.academia.edu/SteveGirard
 - OSF  https://osf.io/aqfw4
 - Zenodo  https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
@@ -41,6 +42,8 @@ A selection of my publications and research outputs is available through the fol
 - **Google Scholar** — citations, metrics, and publication list  
   https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
 
+- **ResearchGate** https://www.researchgate.net/profile/Steve-Girard-2
+
 - **Academia.edu** — working papers, philological notes, and linguistic drafts  
   https://ulaval.academia.edu/SteveGirard
 
@@ -53,6 +56,8 @@ A selection of my publications and research outputs is available through the fol
   ## Datasets
 
 Selected datasets and research materials are available through the following platforms:
+
+- **ResearchGate** https://www.researchgate.net/profile/Steve-Girard-2
 
 - **Zenodo** — archived datasets, corpus components, and deposited research materials  
   https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22

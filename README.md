@@ -10,12 +10,12 @@ Working across three main areas:
 Member of the Linguistic Society of America (LSA) and the American Astronomical Society (AAS).
 
 ## Academic links
-- ORCID: https://orcid.org/0009-0000-7013-8230
-- Google Scholar  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
-- ResearchGate  https://www.researchgate.net/profile/Steve-Girard-2
-- Academia  https://ulaval.academia.edu/SteveGirard
-- OSF  https://osf.io/aqfw4
-- Zenodo  https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
+- ORCID https://orcid.org/0009-0000-7013-8230
+- Google Scholar https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
+- ResearchGate https://www.researchgate.net/profile/Steve-Girard-2
+- Zenodo https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
+- OSF https://osf.io/aqfw4
+- Academia https://ulaval.academia.edu/SteveGirard
 
 ## Research interests
 - Ancient structures  
@@ -39,10 +39,12 @@ A selection of my publications and research outputs is available through the fol
 - **ORCID** — consolidated list of works and identifiers  
   https://orcid.org/0009-0000-7013-8230
 
-- **Google Scholar** — citations, metrics, and publication list  
-  https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
-
 - **ResearchGate** https://www.researchgate.net/profile/Steve-Girard-2
+
+- **Google Scholar** https://scholar.google.fr/citations?hl=fr&user=Rh_POKsAAAAJ
+
+- **Zenodo** — archived versions, datasets, and deposited papers  
+  https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22 
 
 - **Academia.edu** — working papers, philological notes, and linguistic drafts  
   https://ulaval.academia.edu/SteveGirard
@@ -50,8 +52,6 @@ A selection of my publications and research outputs is available through the fol
 - **OSF** — research materials, datasets, and project components  
   https://osf.io/aqfw4
 
-- **Zenodo** — archived versions, datasets, and deposited papers  
-  https://zenodo.org/search?q=metadata.creators.person_or_org.name:%22Girard,%20Steve%22
 
   ## Datasets
 

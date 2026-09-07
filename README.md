@@ -5,7 +5,7 @@ Researcher based in Québec, Canada, working in scientific methodology, conceptu
 Working across three main areas:
 - **Historical linguistics** — Pre‑Basque, deep etymology, morphology.  
 - **Greek philology** — Hesiod, archaic structures, textual transmission.  
-- **Astrophysics** — Gamma‑ray bursts (GRBs), models, comparative analysis.
+- **Astrophysics** — High-energy (GRBs), models, comparative analysis.
 
 Member of the Linguistic Society of America (LSA) and the American Astronomical Society (AAS).
 

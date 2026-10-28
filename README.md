@@ -1,6 +1,6 @@
 # Steve Girard
 
-Researcher based in Québec, Canada, working in scientific methodology, conceptual modelling, and research architectures, affiliated with Epistemic Research Frameworks (ERF) Institute.
+Researcher based in Québec, Canada, working in scientific methodology, conceptual modelling, and research architectures, affiliated with Epistemic Research Frameworks (ERF) Institute. Editor-in-Chief, Canadian Journal of Knowledge and Inquiry.
 
 Working across three main areas:
 - **Historical linguistics** — Pre‑Basque, deep etymology, morphology.  

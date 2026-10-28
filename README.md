@@ -39,7 +39,7 @@ A selection of my publications and research outputs is available through the fol
 - **ORCID** — consolidated list of works and identifiers  
   https://orcid.org/0009-0000-7013-8230
 
-- **Canadian Journal of Knowledge and Inquiry** [https://www.researchgate.net/profile/Steve-Girard-2](https://knowledgeandinquiry.ca/)
+- **Canadian Journal of Knowledge and Inquiry** https://knowledgeandinquiry.ca
   
 - **ResearchGate** https://www.researchgate.net/profile/Steve-Girard-2
 
